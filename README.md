@@ -26,4 +26,4 @@ The planet will be rotating, the ambient light is blue, the background is black,
 
 * Execute
 
-	`$ ./a4`
+`$ ./a4`
