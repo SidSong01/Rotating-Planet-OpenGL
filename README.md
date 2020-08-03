@@ -6,7 +6,7 @@
 
 ## Overview
 
-Create a rotating planet as shown below in OpenGL.
+Create a rotating planet as shown below in OpenGL. (In real execution it is rotating.)
 
 ![* In real execution it will  be rotating][image1]
 
